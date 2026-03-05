@@ -10,5 +10,5 @@
 - return index of searched input
 
 ## How to run
-1. compile: g++ irvineA3.cpp -o main
-2. run: ./irvineA3.cpp
+1. compile: g++ main.cpp -o main
+2. run: ./main.cpp
